@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hello Github 👋
+🌱 I'm currently learning how Github works and if it can help me in my daily life.
 <!--
 **pvidalba/pvidalba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
